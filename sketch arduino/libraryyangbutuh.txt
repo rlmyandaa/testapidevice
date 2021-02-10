@@ -1,0 +1,3 @@
+Cari di Library Manager
+ArduinoJSON by Benoit Blanchon
+ArduinoHttpClient by Arduino
